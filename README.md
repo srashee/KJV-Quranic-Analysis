@@ -24,7 +24,8 @@ Sentiment analysis was performed on both Bible and Quran texts using the VADER s
 python
 Copy code
 # Code snippet for sentiment analysis
-# (Assuming you have loaded the Bible and Quran texts into 'bible_text' and 'quran_text' lists)
+King James corpus available in repo
+Quran corupis avaialble in repo
 
 # Perform sentiment analysis
 bible_sentiments = perform_sentiment_analysis(bible_text)
